@@ -168,7 +168,7 @@ nav h3 {
 
 /* about section styles end */
 
-/* what i do section starts here */
+/* skill section starts here */
 
 .skill {
     display: flex;
@@ -186,7 +186,7 @@ nav h3 {
     text-align: center;
 }
 
-.what-i-do-title{
+.what-i-do-title {
     font-weight: 900px;
     font-size: 40px;
     margin-bottom: 18px;
@@ -234,4 +234,70 @@ nav h3 {
     font-size: 14px;
     font-weight: 300;
     line-height: 30px;
+}
+
+/* skill section styles end  */
+
+/* resume section styles here */
+
+.resume {
+    margin-top: 100px;
+}
+
+.resume-title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800px;
+}
+
+.resume-content {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.resume-education-title {
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+.resume-education-info {
+    
+}
+
+.resume-education-info-title {
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+
+.resume-education-info-description-1{
+    margin-bottom: 12px;   
+}
+
+.resume-education-info-description-2 {
+    color: rgb(117, 117, 117);
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.resume-experience-title{
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.resume-experience-info-title{
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+
+.resume-experience-info-description-1{
+    margin-bottom: 12px;
+}
+
+.resume-experience-info-description-2{
+    color: rgb(117, 117, 117);
+    font-size: 16px;
+    line-height: 28px;
 }
